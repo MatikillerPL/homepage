@@ -1,0 +1,134 @@
+html {
+    box-sizing: border-box;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.interesting {
+    color:#ff0033
+}
+
+.box {
+    max-width: 800px;
+    background-color: #222;
+    margin-left: auto;
+    margin-right: auto;
+    color:#eee ;
+}
+
+.klub {
+    color:#7fff00
+}
+
+.polish {
+    color:#000000;
+    text-shadow: 1px 1px 10px #393939;
+    box-shadow: 1px 1px 3px 0px #393939;
+    padding: 5px 5px;
+    background-color: #f5f5f5;
+}
+
+.clubs {
+    color:#000000;
+    text-shadow: 1px 1px 10px #393939;
+    box-shadow: 1px 1px 3px 0px #393939;
+    padding: 5px 5px;
+    background-color: #f5f5f5;
+}
+
+.przycisk {
+    color:#000000;
+    text-shadow: 1px 1px 10px #393939;
+    box-shadow: 1px 1px 3px 0px #393939;
+    padding: 5px 5px;
+    background-color: #f5f5f5;
+}
+
+.button {
+    color:#000000;
+    text-shadow: 1px 1px 10px #393939;
+    box-shadow: 1px 1px 3px 0px #393939;
+    padding: 5px 5px;
+    background-color: #f5f5f5;
+}
+
+.table {
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+    overflow-x: auto;
+}
+
+.tableCell {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.caption {
+    text-align: center;
+}
+
+.tableCell8 {
+    background-color: #ff0202;
+    color: #eee;
+    font-weight: normal;
+ }
+
+.tableCell1 {
+    background-color: #c89104d3;
+    color: #eee;
+    font-weight: normal;
+ }
+
+ .tableCell2 {
+    background-color:#979797d8;
+    color: #eee;
+    font-weight: normal;
+ }
+
+ .tableCell3 {
+    background-color:#a52a2a;
+    color: #eee;
+    font-weight: normal;
+ }
+
+.tableCell {
+    background-color: #222;
+    color: #eee;
+    font-weight: normal;
+}
+
+.body {
+    color:#222 ;
+    font-family: "Lato", sans-serif;
+    text-align: center;
+    margin: 0;
+}
+
+.dark {
+    color:#ffffff;
+    background:#000000;
+}
+
+.link {
+    text-decoration: none;
+    color: #3700ff;
+}
+
+.link:hover {
+    color:#3700ff;
+    border-bottom: 1px solid;
+    outline: none;
+}
+
+.link:active {
+    color:#ff0000
+}
+
+.foot{
+    text-align: center;
+}
+
