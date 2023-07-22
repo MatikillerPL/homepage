@@ -1,20 +1,17 @@
-# homepage
-## nagłówek 2. poziomu
+# Mateusz Kitler - moja stronka 
 
-Zwykły Tekst
-**wytłuszczenie**
-*kursywa*
+## Demo
+https://matikillerpl.github.io/homepage/
 
-1. Element listy
-2. Element listy
+## Website about me:
+Expirience
+Hobby
 
--element
--element
-
-[Google](https://google.com)
-https://google.com
-
-![Alternatywny tekst](link do zdjęcia)
+## Technologies:
+HTML
+CSS
+JS
+BEM
 
 Fragment kodu: `console.log
 (5)`
