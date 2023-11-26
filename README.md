@@ -1,9 +1,9 @@
 # Mateusz Kitler - moja stronka 
 
 ## Demo
-[https://matikillerpl.github.io/homepage/](https://matikillerpl.github.io/homepage/strona.html)
+[Strona](https://matikillerpl.github.io/homepage/strona.html)
 <br>
-[https://matikillerpl.github.io/homepage/](https://matikillerpl.github.io/homepage/kalkulatorwalut.html)
+[Kalkulator Walut](https://matikillerpl.github.io/homepage/kalkulatorwalut.html)
 
 ## Website about me:
 Expirience
