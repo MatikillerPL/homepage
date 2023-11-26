@@ -2,7 +2,8 @@
 
 ## Demo
 [https://matikillerpl.github.io/homepage/](https://matikillerpl.github.io/homepage/strona.html)
-[https://matikillerpl.github.io/homepage/](https://matikillerpl.github.io/kalkulatorwalut.html)
+<br>
+[https://matikillerpl.github.io/homepage/](https://matikillerpl.github.io/homepage/kalkulatorwalut.html)
 
 ## Website about me:
 Expirience
